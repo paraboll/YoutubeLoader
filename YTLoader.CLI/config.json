@@ -1,0 +1,12 @@
+{
+  "ThreadCount" : 5,
+  "BaseDir": "D:\\YouTubeVideo\\",
+  "VideoResolution" : 720,
+  "VideoUrls": [
+    "https://www.youtube.com/watch?v=h9PUVQaeI0k",
+    "https://www.youtube.com/watch?v=_kT_MbdRkRk",
+    "https://www.youtube.com/watch?v=3uI2KWRZBXM",
+    "https://www.youtube.com/watch?v=__-vp0g_BhA",
+    "https://www.youtube.com/watch?v=0gE2wUFKmXo",
+  ]
+}
